@@ -26,7 +26,7 @@ The Academy Admin Scheduler is a comprehensive scheduling and management tool de
 
 ## Setup
 
-1. Download the file: Clone or download the Excel file (academy-admin-scheduler.xlsx) from this repository or from this [link](https://docs.google.com/spreadsheets/d/1ZTpfdRSxcI8C-x1T0WUDKbrg1Y-GgwgnqSH-qNFdVz8/edit?usp=sharing)
+1. Download the file: Clone or download the Excel file (academy-admin-scheduler.xlsx) from this repository or from this [link](https://docs.google.com/spreadsheets/d/1ZTpfdRSxcI8C-x1T0WUDKbrg1Y-GgwgnqSH-qNFdVz8/edit?usp=sharing).
 2. Open in Google Sheets or Excel.
 3. Add your data: Input your students, teachers, holidays, tuition rates, and class information in the corresponding sheets.
 4. View the schedule: The scheduler will automatically generate a viewable schedule, tuition breakdown, and payment schedule.
